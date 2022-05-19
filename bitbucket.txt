@@ -1,0 +1,4 @@
+https://bitbucket.org/account/settings/app-passwords/
+
+
+git push origin master --force
